@@ -5,7 +5,7 @@
 + E-mail Address : weipo.lin@msa.hinet.net
 + Zuvio Course Number : 26975829
 + Course Period : 1400 - 1700
-+ FB : 長庚資管2019資訊倫理與法律
++ FB : [長庚資管2019資訊倫理與法律](https://www.facebook.com/groups/303022477235326/?epa=SEARCH_BOX&locale=zh_TW)
 + 成績計算：
     + 期中：30% >> 04/19/2019
     + 期末：30%
@@ -40,5 +40,8 @@
     - 網路犯罪
     - 網路隱私保護
     - 智慧財產
+        - 商標
+        - 著作權
+        - 專利
     - 公平交易與消費者保護
     - 電子商務與新興科技
