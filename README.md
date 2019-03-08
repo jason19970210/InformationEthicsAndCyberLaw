@@ -3,7 +3,7 @@
 ### 教師與課堂資訊
 + 林威伯
 + E-mail Address : weipo.lin@msa.hinet.net
-+ Zuvio Course Number : 26975829[zuvio_website](https://irs.zuvio.com.tw/student5/irs/clickers/269758)
++ Zuvio Course Number : 26975829  [zuvio_website](https://irs.zuvio.com.tw/student5/irs/clickers/269758)
 + Course Period : 1400 - 1700
 + FB : [長庚資管2019資訊倫理與法律](https://www.facebook.com/groups/303022477235326/?epa=SEARCH_BOX&locale=zh_TW)
 + 成績計算：
